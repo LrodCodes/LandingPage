@@ -33,3 +33,28 @@ nav > ul{
 nav > ul > li{
     padding: 10px;
 }
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    padding: 1rem 14rem 7rem;;
+}
+
+.left{
+    flex: 1 1 0;
+}
+
+.right{
+    flex: 1 1 0;
+}
